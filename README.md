@@ -23,6 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+Note: I will be working to update the User Interface in Part 2 of this Assignment
+
 ## User Story: Signing Up with New Account
 
 <img src='https://media.giphy.com/media/yjgtTlSl8RRig8JLZ9/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
