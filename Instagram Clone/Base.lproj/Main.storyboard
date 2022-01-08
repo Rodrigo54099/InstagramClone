@@ -78,7 +78,7 @@
             </objects>
             <point key="canvasLocation" x="128.98550724637681" y="97.767857142857139"/>
         </scene>
-        <!--Feed View Controller-->
+        <!--Instagram-->
         <scene sceneID="Tzr-Xm-MCh">
             <objects>
                 <viewController id="KaW-TJ-2Nt" customClass="FeedViewController" customModule="Instagram_Clone" customModuleProvider="target" sceneMemberID="viewController">
@@ -141,7 +141,7 @@
                         <viewLayoutGuide key="safeArea" id="DO0-kc-Eov"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" id="whH-AR-m0E">
+                    <navigationItem key="navigationItem" title="Instagram" id="whH-AR-m0E">
                         <barButtonItem key="rightBarButtonItem" title="Item" image="insta_camera_btn" id="cES-sZ-tR9">
                             <connections>
                                 <segue destination="z6u-bA-zvo" kind="presentation" id="1bO-sK-OMg"/>
